@@ -1,0 +1,6 @@
+1787356851s 1 https://dandiarchive.s3.amazonaws.com/zarr/fc1cb7e5-015d-4b31-a20b-8c772080b776/acquisition/left_reward_delivery_time/data/.zarray?versionId=ntRPuLeroc68wPUzmtd7YBJLPL0K8oTf
+1787356851s 1 https://api.dandiarchive.org/api/zarr/fc1cb7e5-015d-4b31-a20b-8c772080b776/files?prefix=acquisition%2Fleft_reward_delivery_time%2Fdata%2F.zarray&download=true
+1787356851s 1 https://dandiarchive.s3.amazonaws.com/zarr/fc1cb7e5-015d-4b31-a20b-8c772080b776/acquisition/left_reward_delivery_time/timestamps/.zarray?versionId=yhEo.mMjeXN9pgYQBj11t3N.F_GPGO9M
+1787356851s 1 https://api.dandiarchive.org/api/zarr/fc1cb7e5-015d-4b31-a20b-8c772080b776/files?prefix=acquisition%2Fleft_reward_delivery_time%2Ftimestamps%2F.zarray&download=true
+1787356854s 1 https://dandiarchive.s3.amazonaws.com/zarr/fc1cb7e5-015d-4b31-a20b-8c772080b776/intervals/trials/left_reward_times/.zarray?versionId=pBYUUR2sMeiyXcuW8SYW6e81LOrb4eQk
+1787356854s 1 https://api.dandiarchive.org/api/zarr/fc1cb7e5-015d-4b31-a20b-8c772080b776/files?prefix=intervals%2Ftrials%2Fleft_reward_times%2F.zarray&download=true

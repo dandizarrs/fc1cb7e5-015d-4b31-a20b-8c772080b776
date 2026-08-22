@@ -1,0 +1,4 @@
+1787356853s 1 https://dandiarchive.s3.amazonaws.com/zarr/fc1cb7e5-015d-4b31-a20b-8c772080b776/intervals/trials/id/0?versionId=niwlBsrLTnwlpFFH_qfLAqR4omPz2WPe
+1787356853s 1 https://api.dandiarchive.org/api/zarr/fc1cb7e5-015d-4b31-a20b-8c772080b776/files?prefix=intervals%2Ftrials%2Fid%2F0&download=true
+1787356855s 1 https://dandiarchive.s3.amazonaws.com/zarr/fc1cb7e5-015d-4b31-a20b-8c772080b776/intervals/trials/trial_ind/0?versionId=ieA9KNKlD3GX.3cfOeHL._6OcyGqY9Tp
+1787356855s 1 https://api.dandiarchive.org/api/zarr/fc1cb7e5-015d-4b31-a20b-8c772080b776/files?prefix=intervals%2Ftrials%2Ftrial_ind%2F0&download=true

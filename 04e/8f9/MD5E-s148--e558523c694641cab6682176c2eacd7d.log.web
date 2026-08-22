@@ -1,0 +1,4 @@
+1787356855s 1 https://dandiarchive.s3.amazonaws.com/zarr/fc1cb7e5-015d-4b31-a20b-8c772080b776/intervals/trials/reward_size_left/0?versionId=LhQXP8bimWFhtAw_cq027ifb8p8Fvy6F
+1787356855s 1 https://api.dandiarchive.org/api/zarr/fc1cb7e5-015d-4b31-a20b-8c772080b776/files?prefix=intervals%2Ftrials%2Freward_size_left%2F0&download=true
+1787356855s 1 https://dandiarchive.s3.amazonaws.com/zarr/fc1cb7e5-015d-4b31-a20b-8c772080b776/intervals/trials/reward_size_right/0?versionId=nfRStKyiN37u9ZOM6jFa0Fe9qNveTm9I
+1787356855s 1 https://api.dandiarchive.org/api/zarr/fc1cb7e5-015d-4b31-a20b-8c772080b776/files?prefix=intervals%2Ftrials%2Freward_size_right%2F0&download=true
